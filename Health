@@ -1,0 +1,23 @@
+
+---
+
+### **2. 34_APILatencyBoard**  
+**Description:**  
+Scans a list of endpoints and displays a live status board with latency tracking.
+
+#### **README.md**
+```markdown
+# APILatencyBoard - Live API Health Monitor
+
+APILatencyBoard shows real-time status and performance of multiple APIs, useful for devops and monitoring dashboards.
+
+## Features
+- Response code + time logging  
+- CLI summary board  
+- JSON / CSV export  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_APILatencyBoard.git
+cd 34_APILatencyBoard
+python monitor.py
