@@ -1,0 +1,23 @@
+
+---
+
+### **3. 34_LogSparkFinder**  
+**Description:**  
+Finds spark-like bursts, high-frequency log lines, and pattern-based clusters in system/app logs.
+
+#### **README.md**
+```markdown
+# LogSparkFinder - Burst & Repetition Log Analyzer
+
+LogSparkFinder helps detect anomalies, surges, and pattern loops in logs using frequency and timestamp analysis.
+
+## Features
+- Repetition and burst detection  
+- Timestamp window grouping  
+- Custom keyword filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_LogSparkFinder.git
+cd 34_LogSparkFinder
+python analyze.py
